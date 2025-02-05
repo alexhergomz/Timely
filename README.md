@@ -1,7 +1,7 @@
 # Timely
 
 Timely is a Python library that makes time series analysis straightforward and accessible. It removes the complexity from initial data exploration, letting you focus on understanding your temporal data rather than preprocessing it.
-
+<!--
 ## What Makes Timely Different?
 
 When working with time series data, the first steps often involve repetitive tasks like cleaning data, making visualizations, and identifying patterns. Timely handles these tasks efficiently, providing clear insights with minimal setup. Think of it as your first-response toolkit for time series analysis.
@@ -95,3 +95,4 @@ We welcome contributions! Whether it's adding features, fixing bugs, or improvin
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+-->
